@@ -1,2 +1,4 @@
 # dio-trilha-java-basico
-atividade da trilha de java na dio
+atividades da trilha de java na dio
+- Conta Banco
+- Desafio controle fluxo
